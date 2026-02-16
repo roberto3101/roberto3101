@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Fullstack Developer - Junior<br><br>Apasionado por transformar ideas en código.<br><br>Stack:  React jsx, Node.js, MySQL<br>**Herramientas:** Git, GitHub
+<br>Fullstack Developer - Junior<br><br>Apasionado por transformar ideas en código.<br><br>Stack:  React jsx, Node.js, PostgreSQL<br>**Herramientas:** Git, GitHub
 
 
 # 💻 Tech Stack:
