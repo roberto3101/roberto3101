@@ -22,7 +22,7 @@ Apasionado por transformar ideas en código.
 
 ## 🏆 GitHub Trophies
 
-![Trofeos de GitHub de roberto3101](https://github-profile-trophy.vercel.app/?username=roberto3101&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Trofeos de GitHub de roberto3101](https://github-trophies.vercel.app/?username=roberto3101&theme=tokyonight)
 
 ## 🔝 Repositorio con más contribuciones
 
