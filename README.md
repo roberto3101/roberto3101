@@ -24,10 +24,6 @@ Apasionado por transformar ideas en código.
 
 ![Trofeos de GitHub de roberto3101](https://github-trophies.vercel.app/?username=roberto3101&theme=tokyonight)
 
-## 🔝 Repositorio con más contribuciones
-
-![Repositorio con más contribuciones de roberto3101](https://github-contributor-stats.vercel.app/api?username=roberto3101&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 
-[![Contador de visitas](https://visitcount.itsvg.in/api?id=roberto3101&icon=0&color=0)](https://visitcount.itsvg.in)
+![Contador de visitas](https://komarev.com/ghpvc/?username=roberto3101&color=blueviolet&style=flat)
