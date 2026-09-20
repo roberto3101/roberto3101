@@ -8,7 +8,7 @@ Apasionado por transformar ideas en código.
 - 🧩 **Stack:** React, Node.js, PostgreSQL
 - 🛠️ **Herramientas:** Git, GitHub
 - 📫 **Contacto:** jose0686534@gmail.com
-- 🌐 **Proyecto en línea:** [RedSocial](https://roberto3101.github.io/RedSocial/)
+-
 
 ## 💻 Tech Stack
 
